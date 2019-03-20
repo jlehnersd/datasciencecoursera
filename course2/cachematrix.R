@@ -1,7 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-## makeCache Matrix is a list that contains four functions to set the value
+## makeCacheMatrix is a list that contains four functions to set the value
 ##   of a matrix, get the value of a matrix, set the value of its inverse,
 ##   and get the value of its inverse
 
@@ -17,7 +17,7 @@ makeCacheMatrix <- function(x = matrix()) {
     list(set = set, get = get, setinv = setinv, getinv = getinv)
 }
 
-## cachleSolve is a function that computes and caches the inverse of a matrix
+## cacheSolve is a function that computes and caches the inverse of a matrix
 ##   or retrieves an already cached matrix inverse value
 
 cacheSolve <- function(x, ...) {
