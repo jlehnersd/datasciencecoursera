@@ -33,3 +33,13 @@ best.R - finds the best-ranked hospital for a specified medical condition in a s
 rankhospital.R - finds the hospital with the specified rank for a specified medical condition in a specified U.S. state or territory.
 
 rankall.R - finds the hospital with the specified rank for a specified medical condition in every U.S. states and territory.
+
+## Course 3 - Getting and Cleaning Data
+
+This course covered a variety of tools and methods for obtaining data sets of various formats from various sources, and tidying up that raw data so that it can easily be used for analysis and can be well-communicated to others.
+
+## Week 3 Quiz
+
+This quiz involved obtaining, cleaning up, and analyzing raw data from two different data tables on GDP and education for countries worldwide.
+
+## Assignment 1
