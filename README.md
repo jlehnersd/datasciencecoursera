@@ -40,6 +40,6 @@ This course covered a variety of tools and methods for obtaining data sets of va
 
 ## Week 3 Quiz
 
-This quiz involved obtaining, cleaning up, and analyzing raw data from two different data tables on GDP and education for countries worldwide.
+This quiz involved obtaining, cleaning up, and analyzing raw data from two different data tables on GDP and education for countries worldwide. The code to answer all quiz questions is in the gdp_edu.R script.
 
 ## Assignment 1
