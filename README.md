@@ -42,4 +42,8 @@ This course covered a variety of tools and methods for obtaining data sets of va
 
 This quiz involved obtaining, cleaning up, and analyzing raw data from two different data tables on GDP and education for countries worldwide. The code to answer all quiz questions is in the gdp_edu.R script.
 
+## Week 4 Quiz
+
+This quiz was an exercise in obtaining and manipulating text data as well as working with the date data class in the R language. The code to answer the quiz questions is in the text_dates.R script.
+
 ## Assignment 1
